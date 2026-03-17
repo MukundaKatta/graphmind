@@ -16,4 +16,4 @@ npm install
 - **types**
 
 ## License
-MIT
+© 2026 Officethree Technologies. All Rights Reserved.
