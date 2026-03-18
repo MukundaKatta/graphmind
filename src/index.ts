@@ -1,2 +1,2 @@
-// graphmind — Knowledge Graph Creator with Graph RAG Agent
+export { KnowledgeGraph } from "./core.js";
 export const VERSION = "0.1.0";
